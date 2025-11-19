@@ -1,3 +1,17 @@
 body {
-    background-color: hotpink;
+  font-family: sans-serif;
+  background-color: rgb(28, 17, 33);
+}
+h1 {
+  color: white;
+  text-shadow:
+    -2px -1px 3px rgb(0, 242, 234),
+    3px 1px 3px rgb(255, 0, 80);
+  font-size: 48px;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
 }
